@@ -40,8 +40,3 @@ pubspec.yaml     # Dependencies
 - Smarter unbeatable AI (Minimax algorithm)  
 - Online multiplayer mode  
 - Larger boards (4x4, 5x5)  
-
----
-
-## 📸 Preview
-(Add screenshots or GIFs of gameplay here)
